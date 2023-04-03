@@ -158,6 +158,18 @@
   align-items: center;
 }
 
+.dicount {
+  margin-top: 50px;
+  margin-bottom: 50px;
+  border-radius: 24px;
+  background-color: black;
+  padding: 50px 50px 0px 50px;
+}
+
+.card-body {
+ padding: 50px 0px 50px 0px;
+}
+
 .footer .list-space {
   margin-bottom: 1.25rem;
 }
